@@ -51,47 +51,41 @@
 ### 🏗️ CivilAcquire – Construction ERP
 - 📊 Developed ERP system for workflow automation & real-time tracking  
 - 💳 Integrated secure payments, wallet & subscription model  
-- ⚡ Improved operational efficiency significantly  
+- ⚡ Improved operational efficiency  
 
 ### 🛒 TharaCart – E-Commerce Platform
 - 🛍️ Built scalable multi-vendor marketplace  
-- 📦 Implemented real-time order tracking & logistics integration  
+- 📦 Implemented real-time order tracking  
 
 ### 📊 DCost – Commerce Management System
-- 📦 Designed product & order management system  
-- 🧩 Implemented clean and scalable architecture  
+- 📦 Product & order management system  
+- 🧩 Clean architecture implementation  
 
 ### 💰 VivlinoShop – Credit Ledger App
-- 🔔 Smart reminders & notification system  
-- 📈 Simplified credit tracking for small businesses  
+- 🔔 Smart reminders & notifications  
+- 📈 Credit tracking for small businesses  
 
 ---
 
 ## 🏆 Achievements
-- ✅ Delivered **6+ production-ready applications**
-- ✅ Supported **500+ daily active transactions**
-- ✅ Reduced manual processes by **60%**
-- ✅ Improved app stability & reduced crashes
-- ✅ Managed complete **Play Store deployment lifecycle**
+- ✅ 6+ production apps delivered  
+- ✅ 500+ daily active transactions  
+- ✅ 60% manual work reduction  
+- ✅ Improved app stability  
+- ✅ Full Play Store deployment handled  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arshanishad&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arshanishad&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshanishad&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshanishad&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: **arshanishad5@gmail.com**  
-- 📱 Phone: **+91 7559833708**  
 - 💼 LinkedIn: https://linkedin.com/in/arshamp-683a502b7  
 - 💻 GitHub: https://github.com/Arshanishad  
 
