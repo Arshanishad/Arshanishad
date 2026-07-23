@@ -18,7 +18,12 @@
 ## 🛠️ Tech Stack
 
 ### 📱 Platforms
-`Android` `iOS` `Web` `Desktop`
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ### ⚙️ State Management
 `BLoC` `Riverpod` `Provider` `Cubit`
@@ -48,19 +53,13 @@
 - 💳 Integrated secure payments, wallet & subscription model  
 - ⚡ Improved operational efficiency significantly  
 
----
-
 ### 🛒 TharaCart – E-Commerce Platform
 - 🛍️ Built scalable multi-vendor marketplace  
 - 📦 Implemented real-time order tracking & logistics integration  
 
----
-
 ### 📊 DCost – Commerce Management System
 - 📦 Designed product & order management system  
 - 🧩 Implemented clean and scalable architecture  
-
----
 
 ### 💰 VivlinoShop – Credit Ledger App
 - 🔔 Smart reminders & notification system  
@@ -80,16 +79,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshanishad&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Arshanishad&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arshanishad&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arshanishad&theme=tokyonight" />
 </p>
 
----
-
-## 💻 Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshanishad&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshanishad&theme=tokyonight" />
 </p>
 
 ---
